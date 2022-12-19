@@ -1,0 +1,41 @@
+
+
+yellowOff = "etcraashyackylonkyyorkhamdeeyunttalrtneireme"
+
+blueOn = "intoemteeshhckecsbednewunoradamdshimeyfyvooi."
+
+red="1100111001110100110110101101011001101001111"
+
+  
+
+yellowOff = "etcraashyackylonkyyorkhamdeeyunttalrtneireme"
+
+blueOn = "intoemteeshhckecsbednewunoradamdshimeyfyvooi."
+
+red="193329B5ACD33"
+
+  
+
+my_hexdata = "193329B5ACD33"
+
+  
+
+scale = 16 ## equals to hexadecimal
+
+  
+
+num_of_bits = 8
+
+  
+
+red=bin(int(my_hexdata, scale))[2:].zfill(num_of_bits)
+
+print(red)
+
+  
+
+result1 = ""
+
+result2 = ""
+
+  
