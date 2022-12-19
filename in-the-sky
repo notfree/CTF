@@ -20,6 +20,8 @@ q2 + Jerusalem 20:00 + az:129.3, alt: 18.3  = JUPITER
 q3 + Jerusalem 20:00 + az 282.8, alt: 28.2 = MARS
 q4 + Jerusalem 20:00 + az 258.8, alt: 04.0 = PLUTO
 
+
+
 backround = 4 4 2 7 2 4 4 by sign
 
 IAICTF{"STARLIT"}
